@@ -2,7 +2,7 @@ Date Started : 14-10-2023
 This app focuses on building an open source website for online medi-care services that are more accesible to the user with best information transperacy 
 
 mail ID:- ntrfannandan555@gmail.com
-Password :- ntrfannandan
+Password :- 
 
 Features aimed to implement:
 1. Login and Signup Functionality for users
