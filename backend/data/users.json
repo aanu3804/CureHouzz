@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Nandan",
+    "email": "ntrfannandan555@gmail.com",
+    "password": "ntrfannandan",
+    "otp": null,
+    "verified": true
+  },
+  {
+    "name": "nandan",
+    "email": "nchilaku@gitam.in",
+    "password": "$2b$10$HSwX/jbuFYlTVqTYRvAv0.n2bCPMzBgOlfAA9Mj60tzhRpv/1u.w6",
+    "photo": "",
+    "otp": "452941",
+    "verified": true,
+    "role": "patient",
+    "gender": "male"
+  },
+  {
+    "name": "Anand",
+    "email": "alattala@gitam.in",
+    "password": "$2b$10$Nk7izk22Rp/WBC1QDZvgSeEx6t7aQ7yIzKzHa7EUBuH2Xy77GhMfi",
+    "photo": "",
+    "verified": true,
+    "role": "patient",
+    "gender": "male"
+  },
+  {
+    "name": "Kumara Varma",
+    "email": "anandsai2004@gmail.com",
+    "password": "$2b$10$BdKXBTTUZax9ebl3pvt8N.IbcNhfBk0RJeYfgoyEr2xts6uRf3xdC",
+    "photo": "",
+    "verified": true,
+    "role": "patient",
+    "gender": "male"
+  },
+  {
+    "name": "anand",
+    "email": "qwertasokfhsgdzvdes@gmail.com",
+    "password": "$2b$10$11ZIB0DxEjYlu4Us6.eIyuhbw3gYV9DoxTCzzdL/ABFgxVqZjIr12",
+    "photo": "",
+    "otp": "313870",
+    "verified": false,
+    "role": "patient",
+    "gender": "male"
+  },
+  {
+    "name": "vivek",
+    "email": "srinavasreddy1975@gmail.com",
+    "password": "$2b$10$pS4714R1i5bVZ1NsERTQPes5e5cec0oP0qsupDLCwtZpXb.Q7hFI.",
+    "photo": "",
+    "verified": true,
+    "role": "patient",
+    "gender": "male"
+  }
+]

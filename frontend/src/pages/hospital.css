@@ -1,0 +1,99 @@
+/* Font changes */
+.hospital-page {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Hospital card styling */
+  .hospital-card {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    padding: 15px;
+    transition: transform 0.3s ease;
+  }
+  
+  .hospital-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .doc-img {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+  }
+  
+  .fav-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: #fff;
+    font-size: 1.2rem;
+  }
+  
+  .Img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  .pro-content {
+    padding: 15px 0;
+  }
+  
+  .pro-content h3 {
+    font-size: 1.2rem;
+    color: #2b2b2b;
+    margin-bottom: 10px;
+  }
+  
+  .location {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 12px;
+  }
+  
+  .specialties {
+    color: #888;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    margin-bottom: 15px;
+  }
+  
+  /* Logos styling */
+  .hospital-logos {
+    display: flex;
+    justify-content: space-around;
+    margin: 15px 0;
+    padding: 10px 0;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .hospital-logos i {
+    font-size: 1.5rem;
+    color: #007bff;
+    transition: color 0.3s ease;
+  }
+  
+  .hospital-logos i:hover {
+    color: #0056b3;
+  }
+  
+  /* View Doctors button */
+  .book-btn {
+    background: #007bff;
+    color: #fff;
+    border-radius: 25px;
+    padding: 8px 25px;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+    width: 100%;
+  }
+  
+  .book-btn:hover {
+    background: #0056b3;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0,123,255,0.3);
+  }
